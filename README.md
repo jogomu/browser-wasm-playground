@@ -1,2 +1,2 @@
 # browser-wasm-playground
-text
+inspired by https://blog.feather.systems/WebGL.html
