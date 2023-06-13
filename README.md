@@ -1,1 +1,2 @@
 # browser-wasm-playground
+text
