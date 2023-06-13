@@ -1,5 +1,5 @@
 index.js: main.c
-	emcc main.c -o index.js
+	emcc -Wall -O3 main.c -o index.js
 
 run:
 	python3 -m http.server
